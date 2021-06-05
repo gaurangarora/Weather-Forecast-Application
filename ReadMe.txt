@@ -6,9 +6,9 @@ How to use--->
 -For search icon, I have used React Icons extension in Visual Studio Code for getting the SVG code.
 
 References----->
-React icons sag
+
 https://fonts.google.com/
 https://source.unsplash.com/
 https://openweathermap.org/
 
-https://openweathermap.org/img/wn/01n@2x.png
+https://openweathermap.org/img/wn/01n@2x.png (for icons)
